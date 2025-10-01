@@ -9,4 +9,4 @@ My background includes **AI/ML infrastructure, edge computing, and distributed s
 
 I enjoy designing and building systems that solve complex real-world problems — from industrial monitoring at scale to distributed model training platforms.  
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abhit-patil) · [Email](mailto:abhit95@gmail.com)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abhit-patil) · [Email](abhit95@gmail.com)
